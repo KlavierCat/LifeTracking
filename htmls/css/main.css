@@ -230,6 +230,12 @@ canvas {
 	cursor:pointer;
 }
 
+#dii{
+	position:fixed;
+	bottom:5px;
+	left:5px;
+}
+
 .green{
 	color:rgb(0,255,0);
 }
