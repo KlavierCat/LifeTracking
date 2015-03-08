@@ -153,6 +153,83 @@ canvas {
 	cursor:pointer;
 }
 
+#tm7{
+	width:50px;
+	height:50px;
+	background-image:url("../img/tm/tm7.png");
+}
+
+#tm7:hover{
+	background-image:url("../img/tm/tm7-2.png");
+	cursor:pointer;
+}
+
+#tm6{
+	width:50px;
+	height:50px;
+	background-image:url("../img/tm/tm6.png");
+}
+
+#tm6:hover{
+	background-image:url("../img/tm/tm6-2.png");
+	cursor:pointer;
+}
+
+#tm5{
+	width:50px;
+	height:50px;
+	background-image:url("../img/tm/tm5.png");
+}
+
+#tm5:hover{
+	background-image:url("../img/tm/tm5-2.png");
+	cursor:pointer;
+}
+
+#tm4{
+	width:50px;
+	height:50px;
+	background-image:url("../img/tm/tm4.png");
+}
+
+#tm4:hover{
+	background-image:url("../img/tm/tm4-2.png");
+	cursor:pointer;
+}
+
+#tm3{
+	width:50px;
+	height:50px;
+	background-image:url("../img/tm/tm3.png");
+}
+
+#tm3:hover{
+	background-image:url("../img/tm/tm3-2.png");
+	cursor:pointer;
+}
+
+#tm2{
+	width:50px;
+	height:50px;
+	background-image:url("../img/tm/tm2.png");
+}
+
+#tm2:hover{
+	background-image:url("../img/tm/tm2-2.png");
+	cursor:pointer;
+}
+
+#tm1{
+	width:50px;
+	height:50px;
+	background-image:url("../img/tm/tm1.png");
+}
+
+#tm1:hover{
+	background-image:url("../img/tm/tm1-2.png");
+	cursor:pointer;
+}
+
 .green{
 	color:rgb(0,255,0);
 }
