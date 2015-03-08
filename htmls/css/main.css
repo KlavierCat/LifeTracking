@@ -5,6 +5,14 @@ body{
     color:#fff;
 }
 
+#single-left{
+	padding:0px;
+}
+
+#single-right{
+	padding-left:0px;
+}
+
 #single-left-top{
 	height:100px;
 }
@@ -22,10 +30,8 @@ body{
 	margin-bottom:10px;
 }
 
-.biometric-long-holder{
-	width:100%;
+#metric-graph-holder{
 	height:220px;
-	border:1px solid #fff;
 }
 
 .bm-property{
@@ -78,7 +84,7 @@ body{
 }
 
 #sensor-metrics-right{
-	text-align: right;
+	text-align: left;
 }
 
 #sensor-metrics-left{
@@ -112,6 +118,35 @@ canvas {
 
 #metric-read-prop span{
 	font-size:15px;
+}
+
+#map{
+	padding:0px;
+	height:414px;
+}
+
+#floorplan{
+	margin:0 auto;
+}
+
+.teammate{
+	width:50px;
+	display:inline-block;
+	margin-right:10px;
+	margin-left:10px;
+	margin-top:15px;
+}
+
+
+#tm8{
+	width:50px;
+	height:50px;
+	background-image:url("../img/tm/tm8.png");
+}
+
+#tm8:hover{
+	background-image:url("../img/tm/tm8-2.png");
+	cursor:pointer;
 }
 
 .green{
