@@ -137,6 +137,10 @@ canvas {
 	margin-top:15px;
 }
 
+#team-wrapper>div:hover{
+	text-decoration: underline;
+	cursor:pointer;
+}
 
 #tm8{
 	width:50px;
